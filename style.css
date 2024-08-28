@@ -1,0 +1,16 @@
+body {
+    background : blue;
+    align-items: center;
+    position: absolute;
+    justify-content: center;
+}
+
+.botao {
+    color : rgb(0, 0, 0);
+    height : 100px;
+    width: 300px;
+}
+
+.exibir {
+    color :rgb(0, 0, 0);
+}
